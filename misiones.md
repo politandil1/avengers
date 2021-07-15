@@ -1,4 +1,5 @@
 
-##misiones 
-Traer agua 
+##misiones
+Traer agua
 Comprar galletas
+traer garrafa
